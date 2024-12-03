@@ -1,0 +1,20 @@
+#titulo {
+    color: #2C3E50;
+    text-align: center;
+}
+
+.descripcion {
+    font-size: 18px;
+    color: #34495E;
+    margin: 20px;
+}
+
+
+#imagen img {
+    border-radius: 50%;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+#redes{
+    text-align:left;
+}
